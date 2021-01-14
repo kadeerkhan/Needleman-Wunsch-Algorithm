@@ -8,6 +8,6 @@ The Needleman–Wunsch algorithm is an algorithm used in bioinformatics to align
 
 Meanwhile i have used it here to match 2 song notes. for the ease of understanding, i have used alphabetic letters as song notes but the code is generic and can work for any given txt files. 
 
-I have attached a c++ file. no additional code is required. The program asks the user to enter 2 song files in txt format. The program tells the similarity index between the two songs and the number of possible allignements.
+I have attached a c++ file. no additional code is required. The program asks the user to enter 2 song files in txt format. The program gives the allignment matrix, best possible allignment, the similarity index between the two songs and the number of possible allignements.
 
 The test files and their output files are added along with the code. 

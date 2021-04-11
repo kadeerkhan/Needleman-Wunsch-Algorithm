@@ -4,7 +4,7 @@
 #include<string>
 #include <iomanip>
 using namespace std;
-
+//we are dope
 
 void reverse(string &s)//funstion to reverse a string
 {
